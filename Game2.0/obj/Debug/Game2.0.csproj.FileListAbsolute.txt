@@ -1,0 +1,29 @@
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\obj\Debug\Game2.0.csprojAssemblyReference.cache
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\obj\Debug\Game2._0.Form1.resources
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\obj\Debug\Game2._0.Properties.Resources.resources
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\obj\Debug\Game2.0.csproj.GenerateResource.cache
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\obj\Debug\Game2.0.csproj.CoreCompileInputs.cache
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\bin\Debug\Game2.0.exe.config
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\bin\Debug\Game2.0.exe
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\bin\Debug\Game2.0.pdb
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\obj\Debug\Game2.0.exe
+C:\Users\lopar\OneDrive\Рабочий стол\Game2.0\Game2.0\obj\Debug\Game2.0.pdb
+E:\Game2.0\Game2.0\bin\Debug\Game2.0.exe.config
+E:\Game2.0\Game2.0\bin\Debug\Game2.0.exe
+E:\Game2.0\Game2.0\bin\Debug\Game2.0.pdb
+E:\Game2.0\Game2.0\obj\Debug\Game2.0.csprojAssemblyReference.cache
+E:\Game2.0\Game2.0\obj\Debug\Game2._0.Form1.resources
+E:\Game2.0\Game2.0\obj\Debug\Game2._0.Properties.Resources.resources
+E:\Game2.0\Game2.0\obj\Debug\Game2.0.csproj.GenerateResource.cache
+E:\Game2.0\Game2.0\obj\Debug\Game2.0.csproj.CoreCompileInputs.cache
+E:\Game2.0\Game2.0\obj\Debug\Game2.0.exe
+E:\Game2.0\Game2.0\obj\Debug\Game2.0.pdb
+F:\Game2.0\Game2.0\bin\Debug\Game2.0.exe.config
+F:\Game2.0\Game2.0\obj\Debug\Game2.0.exe
+F:\Game2.0\Game2.0\obj\Debug\Game2.0.pdb
+F:\Game2.0\Game2.0\bin\Debug\Game2.0.exe
+F:\Game2.0\Game2.0\bin\Debug\Game2.0.pdb
+F:\Game2.0\Game2.0\obj\Debug\Game2.0.csprojResolveAssemblyReference.cache
+F:\Game2.0\Game2.0\obj\Debug\Game2._0.Form1.resources
+F:\Game2.0\Game2.0\obj\Debug\Game2._0.Properties.Resources.resources
+F:\Game2.0\Game2.0\obj\Debug\Game2.0.csproj.GenerateResource.Cache
